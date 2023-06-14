@@ -1,0 +1,27 @@
+﻿
+@{
+    ViewBag.Title = "References";
+}
+<div>
+    <a href="/">Home</a>
+    <a href="/portfolio/profile">Profile</a>
+    <a href="/portfolio/education">Education</a>
+    <a href="/portfolio/projects">Projects</a>
+    <a href="/portfolio/references">References</a>
+</div>
+
+<h2>References</h2>
+<table class=" table table-bordered">
+    <tr>
+        <th>Reference</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td> @item.Reference</td>
+        
+        </tr>
+    }
+
+</table>
+
