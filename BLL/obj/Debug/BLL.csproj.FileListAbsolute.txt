@@ -1,0 +1,17 @@
+C:\Users\DELL\source\repos\P1\BLL\bin\Debug\BLL.dll
+C:\Users\DELL\source\repos\P1\BLL\bin\Debug\BLL.pdb
+C:\Users\DELL\source\repos\P1\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\P1\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\P1\BLL\obj\Debug\BLL.dll
+C:\Users\DELL\source\repos\P1\BLL\obj\Debug\BLL.pdb
+C:\Users\DELL\source\repos\P1\BLL\bin\Debug\BLL.dll.config
+C:\Users\DELL\source\repos\P1\BLL\bin\Debug\DAL.dll
+C:\Users\DELL\source\repos\P1\BLL\bin\Debug\EntityFramework.dll
+C:\Users\DELL\source\repos\P1\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL\source\repos\P1\BLL\bin\Debug\DAL.pdb
+C:\Users\DELL\source\repos\P1\BLL\bin\Debug\DAL.dll.config
+C:\Users\DELL\source\repos\P1\BLL\bin\Debug\EntityFramework.xml
+C:\Users\DELL\source\repos\P1\BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL\source\repos\P1\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\DELL\source\repos\P1\BLL\bin\Debug\AutoMapper.dll
+C:\Users\DELL\source\repos\P1\BLL\bin\Debug\AutoMapper.xml

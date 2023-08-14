@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\P1\DAL\bin\Debug\DAL.dll
+C:\Users\DELL\source\repos\P1\DAL\bin\Debug\DAL.pdb
+C:\Users\DELL\source\repos\P1\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\P1\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\P1\DAL\obj\Debug\DAL.dll
+C:\Users\DELL\source\repos\P1\DAL\obj\Debug\DAL.pdb
+C:\Users\DELL\source\repos\P1\DAL\bin\Debug\DAL.dll.config
+C:\Users\DELL\source\repos\P1\DAL\bin\Debug\EntityFramework.dll
+C:\Users\DELL\source\repos\P1\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL\source\repos\P1\DAL\bin\Debug\EntityFramework.xml
+C:\Users\DELL\source\repos\P1\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL\source\repos\P1\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\DELL\source\repos\P1\DAL\obj\Debug\DAL.Migrations.InitialCreate.resources
+C:\Users\DELL\source\repos\P1\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
